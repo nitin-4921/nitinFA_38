@@ -1,2 +1,6 @@
-Welcome to My new file named Nitin 
+
+Welcome to My new file named Nitin.
+Course :Btech 
+Year : 3rd
+Roll no:38
 
